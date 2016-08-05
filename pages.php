@@ -43,13 +43,13 @@ return array (
     ),
 
     "502" => array (
-        "title" => "Service currently unavailable",
+        "title" => "Service Currently Unavailable",
         "message0" => "Our servers seem to be having some trouble. We are fixing the problem, please try again later.",
         "message1" => "Sivuston palvelimella on häiriö, jota korjataan parhaillaan. Kokeile hetken kuluttua uudelleen.",
     ),
 
     "504" => array (
-        "title" => "Service currently unavailable",
+        "title" => "Service Currently Unavailable",
         "message0" => "Our servers seem to be having some trouble. We are fixing the problem, please try again later.",
         "message1" => "Sivuston palvelimella on häiriö, jota korjataan parhaillaan. Kokeile hetken kuluttua uudelleen.",
     ),
