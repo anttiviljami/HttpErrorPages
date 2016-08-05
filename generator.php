@@ -12,7 +12,7 @@ $config = array(
 $pages = require('pages.php');
 
 // load inline css
-$css = trim(file_get_contents('Resources/Layout.css'));
+$css = trim(file_get_contents('Resources/Layout.min.css'));
 
 // generate each error page
 foreach ($pages as $code => $page){
